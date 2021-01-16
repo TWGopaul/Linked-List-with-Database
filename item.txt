@@ -1,0 +1,145 @@
+15 Asparagus n s 2.99
+16 Green-beans n p 0.99
+17 Broccoli-Crowns n p 1.99
+18 Iceberg-Lettuce n s 1.99
+19 Zucchini n s 0.89
+20 Carrots n p 0.33
+21 Geen-Cabbage n p 0.69
+22 Yellow-Bell-Pepper n s 1.25
+23 Geen-Bell-Pepper n s 1.10
+24 Organic-Cucumber n s 1.25
+25 Cauliflower n p 1.22
+26 Mango n n 0.99
+27 Red-Bell-Pepper n s 1.10
+28 Yellow-Potatos n p 0.89
+29 Yellow-Potatos-Bag-3lb n s 2.50 
+30 Sweet-Potatos n p 0.99
+31 Sweet-Potatos-Bag-3lb n s 2.55
+32 Lemon n n 0.85
+33 Avocado n n 0.99
+34 Watermelon n s 5.99
+35 Honeydew n s 2.99
+36 Banana n p 0.33
+37 Kiwifruit n n 0.39
+
+101 Raspberries-6oz n s 2.50
+102 Apple-Fuji-10lb n s 6.99
+103 Blackberries-6oz n s 3.50
+104 Kiwi n n 0.85
+105 Strawberries-2lb n s 5.99
+106 Black-Plums n p 2.99
+107 White-Peach n p 2.79
+108 Yellow-Peach n p 1.99
+109 Navel-Orange-5lb n s 5.99
+110 Apple-Gala-8lb n s 6.89
+
+801 Beef-ChuckRost t p 4.86
+802 Beef-BottomRound t p 4.25
+803 Beef-T-BoneSteak t p 7.86
+804 Beef-SirloinSteak t p 5.86
+805 Beef-RibEyeSteak t p 8.56
+806 Beef-LeanGround-93% t p 3.86
+807 Beef-LeanGround-96% t p 4.86
+
+201 Coffee-Folgers-48oz t s 12.59
+202 Coffee-Maxwell-42oz t s 11.98
+203 Coffee-MacCafe-30oz t s 13.99
+203 Coffee-Nescafe t s 12.99
+204 Coffee-Folgers-24oz t s 10.59
+205 Coffee-Maxwell-21oz t s 7.98
+206 Coffee-Starbuck-21oz t s 11.98
+207 Coffee-Dunkin-21oz t s 6.98
+
+301 Fruit-Can-Peach-Dole-15oz t s 3.25
+302 Fruit-Can-Peach-Dole-30oz t s 5.99
+303 Fruit-Can-Peach-Del-15oz t s 3.99
+304 Fruit-Can-Peach-Del-30oz t s 6.59
+305 Fruit-Can-PineApple-Dole-15oz t s 1.50
+306 Fruit-Can-PineApple-Dole-30oz t s 2.99
+307 Fruit-Can-PineApple-Del-15oz t s 1.99
+308 Fruit-Can-PineApple-Del-30oz t s 3.59
+309 Fruit-Can-Pear-Dole-15oz t s 1.49
+310 Fruit-Can-Pear-Dole-30oz t s 2.99
+311 Fruit-Can-Pear-Del-15oz t s 1.99
+312 Fruit-Can-Pear-Del-30oz t s 3.59
+
+401 Butter-BreakStone-16oz t s 3.98
+402 Butter-LandLakes-16oz t s  4.44
+403 Butter-CountryCrock-16oz t s 2.98
+404 Butter-Challenge-16oz t s  3.87
+405 Butter-BreakStone-8oz t s 2.25
+406 Butter-LandLakes-8oz t s  3.15
+407 Butter-CountryCrock-8oz t s 1.98
+408 Butter-Challenge-8oz t s  2.87
+
+451 Bread-HoneyWheat-Nature-20oz t s 2.98
+452 Bread-HoneyWheat-SaraLee-20oz t s 2.88
+453 Bread-HoneyWheat-Wonder-20oz t s 2.58
+454 Bread-White-Nature-20oz t s 2.38
+455 Bread-White-SaraLee-20oz t s 2.12
+456 Bread-White-Wonder-20oz t s 1.99
+457 Bread-Butter-Nature-20oz t s 2.88
+458 Bread-Butter-SaraLee-20oz t s 2.78
+459 Bread-Butter-Wonder-20oz t s 2.48
+460 Bread-WholeWheat-Nature-20oz t s 3.18
+461 Bread-WholeWheat-SaraLee-20oz t s 3.08
+462 Bread-WholeWheat-Wonder-20oz t s 2.88
+
+501 Microwave-Popcon-ACT-18cnt t s 5.44
+502 Microwave-Popcon-Orville-12cnt t s 4.98
+503 Microwave-Popcon-PopSecret-30cnt t s 11.13
+504 Microwave-Popcon-ACT-9cnt t s 3.29
+505 Microwave-Popcon-Orville-6cnt t s 3.25
+506 Microwave-Popcon-PopSecret-15cnt t s 6.25
+
+520 Chocolate-Hersheys-6.8oz t s 2.24
+521 Chocolate-Milky-Way-Funsize t s 2.88
+522 Chocolate-Hersheys-6count t s 4.76
+523 Chocolate-Snickers-Almond-1.76oz t s 4.27
+524 Chocolate-Reese-Peanut-Butter-6.8oz t s 5.88
+
+551 Milk-DairyPure-VtD-1G n s 4.58
+552 Milk-Marburger-VtD-1G n s 4.78
+553 Milk-DairyPure-2%-1G n s 4.78
+554 Milk-Marburger-2%-1G n s 4.88
+555 Milk-DairyPure-VtD-hG n s 3.09
+556 Milk-Marburger-VtD-hG n s 3.78
+557 Milk-DairyPure-2%-hG n s 3.55
+558 Milk-Marburger-2%-hG n s 3.78
+
+601 Detergent-All-150oz t s 9.46
+602 Detergent-Tide-150oz t s 12.46
+603 Detergent-Gain-150oz t s 10.46
+604 Detergent-Arm&Hammer-150oz t s 9.97
+605 Detergent-Persil-150oz t s 11.97
+606 Detergent-Purex-150oz t s 10.49
+607 Detergent-All-100oz t s 6.46
+608 Detergent-Tide-100oz t s 8.46
+609 Detergent-Gain-100oz t s 7.46
+610 Detergent-Arm&Hammer-100oz t s 7.97
+611 Detergent-Persil-100oz t s 7.88
+612 Detergent-Purex-100oz t s 7.49
+
+701 Tomato-Ketchup-Heinz-32oz t s 5.76
+702 Tomato-Ketchup-Hunts-32oz t s 4.58
+703 Tomato-Ketchup-Heinz-64oz t s 7.76
+704 Tomato-Ketchup-Heinz-64oz t s 6.76
+705 HotSauce-TexasPete-24oz t s 2.74
+706 HotSauce-Frank-24oz t s 4.48
+707 HotSauce-Tapatio-32oz t s 7.96
+708 HotSauce-Tavasco-12oz t s 5.98
+709 BBQSauce-Masterpiece-63oz t s 5.58
+710 BBQSauce-JackDaniel-19oz t s 3.48
+711 BBQSauce-SweetBabyRays-28oz t s 2.38
+712 Mayonnaise-Hellmann-48oz t s 5.54
+713 BBQSauce-Heinz-19oz t s 5.63
+714 Mayonnaise-Kraft-48oz t s 4.48
+715 Mayonnaise-BluePlate-48oz t s 5.32
+
+751 Vegetable-Oil-Crisco-1G t s 6.98
+752 Vegetable-Oil-Wesson-1G t s 7.58
+753 Vegetable-Oil-Mazola-1G t s 7.23
+754 Canola-Oil-Crisco-1G t s 7.25
+755 Canola-Oil-Wesson-1G t s 7.99
+756 Canola-Oil-Mazola-1G t s 7.88
+
